@@ -1,2 +1,4 @@
-package com.example.andriodgpt;public class CIrcle {
+package com.example.andriodgpt;
+
+public class CIrcle extends Shape{
 }
