@@ -1,4 +1,4 @@
 package com.example.andriodgpt;
 
-public class CIrcle extends Shape{
+public class Cube extends Shape{
 }
